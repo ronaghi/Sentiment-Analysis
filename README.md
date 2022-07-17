@@ -1,2 +1,2 @@
-# Sentiment-Analysis
-Sentiment Analysis on Selected Thai Hotels
+# Sentiment Analysis on Selected Thai Hotels
+My research object is sentiment analysis of reviews for 30 randomly selected hotels in Thailand using text mining tools and techniques. The dataset has been downloaded from the Blackboard learning management system. Sentiment Analysis is the process of identifying sentiment from text written in a natural language. Sentiment lexicons are used to perform this task. With the Sentiment Analysis report, hotel management can identify topics that were mentioned most frequently with a negative sentiment attached. With this information, the management would know to evaluate these areas when it comes time to make decisions about property improvements.
